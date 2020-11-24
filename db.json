@@ -1,6 +1,13 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { 
+	"id": 1,
+	"empId":101,
+	"empName":"",
+	"dept":"",
+	"mobile":5754030,
+	"address":""
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
